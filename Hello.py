@@ -26,7 +26,7 @@ def policy_search():
         unsafe_allow_html=True
     )
 
-    st.title("Policy Search 🔍")
+    st.title(" Policy Search 🔍")
 
     st.sidebar.header("Filter options")
 
