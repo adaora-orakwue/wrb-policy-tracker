@@ -15,16 +15,7 @@ def policy_search():
 
     data = load_data()
     
-    st.markdown(
-        """
-        <style>
-            body {
-                background-color: #D67B82; /* Pink */
-            }
-        </style>
-        """,
-        unsafe_allow_html=True
-    )
+   
 
     st.title(" Policy Search 🔍")
 
